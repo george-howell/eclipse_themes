@@ -1,0 +1,46 @@
+<colorTheme id="53034" name="Mariana Deux" modified="2018-03-22 19:04:27" author="Steve" website="Mariana-Deux">
+<searchResultIndication color="#7C838C"/>
+<filteredSearchResultIndication color="#7C838C"/>
+<occurrenceIndication color="#7C838C"/>
+<writeOccurrenceIndication color="#7C838C"/>
+<findScope color="#111111"/>
+<deletionIndication color="#F9A657"/>
+<sourceHoverBackground color="#000000"/>
+<singleLineComment color="#A7ADBB" bold="false" italic="true"/>
+<multiLineComment color="#A7ADBB" italic="true"/>
+<commentTaskTag color="#A7ADBB" bold="false"/>
+<javadoc color="#A7ADBB"/>
+<javadocLink color="#6399CE" bold="true" underline="true" strikethrough="false"/>
+<javadocTag color="#C693C6"/>
+<javadocKeyword color="#C693C6"/>
+<class color="#6399CE" italic="true"/>
+<interface color="#C693C3"/>
+<method color="#6399CE" italic="false"/>
+<methodDeclaration color="#5DA5A0" italic="false"/>
+<bracket color="#D8D8D8"/>
+<number color="#F9A657"/>
+<string color="#98C793"/>
+<operator color="#98C793"/>
+<keyword color="#ED5C64" italic="false" underline="false" strikethrough="false"/>
+<annotation color="#FFFFFF"/>
+<staticMethod color="#6399CE" italic="false"/>
+<localVariable color="#CAD4DB" bold="false"/>
+<localVariableDeclaration color="#CAD4DB" bold="false"/>
+<field color="#CAD4DB" bold="false" italic="false"/>
+<staticField color="#C693C6" italic="false"/>
+<staticFinalField color="#C693C6"/>
+<deprecatedMember color="#FFFFFF"/>
+<enum color="#7FB347"/>
+<inheritedMethod color="#F9A657"/>
+<abstractMethod color="#F9A657"/>
+<parameterVariable color="#F9A657" bold="false"/>
+<typeArgument color="#6399CE"/>
+<typeParameter color="#6399CE"/>
+<constant color="#C693C3"/>
+<background color="#343D46"/>
+<currentLine color="#343D46"/>
+<foreground color="#D8DEE9"/>
+<lineNumber color="#657B83"/>
+<selectionBackground color="#596066"/>
+<selectionForeground color="#000000"/>
+</colorTheme>
